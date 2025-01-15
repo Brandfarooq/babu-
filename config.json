@@ -17,7 +17,7 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "MOTU BOT ",
-    "PREFIX": "+",
+    "PREFIX": ".",
     "ADMINBOT": [
         "100092323833716"
     ],
